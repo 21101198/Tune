@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717539773949",
+    "project_id": "seoultech-tone",
+    "storage_bucket": "seoultech-tone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717539773949:android:2497cfc43fb343382cdd94",
+        "android_client_info": {
+          "package_name": "com.yourname.seoultechtone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6dXkmzfYCQsKZRMpqVj5VsBSBADRRUWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
