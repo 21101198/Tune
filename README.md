@@ -11,7 +11,8 @@ Login info:      email: oscaraltanhuyag@gmail.com
 
                  
 
-![image](https://github.com/user-attachments/assets/8a087336-f4cc-45e4-8672-9f4ff58)
+![Screenshot 2024-12-03 010139](https://github.com/user-attachments/assets/5dc35efc-d6ed-4e31-ac38-4c8e6eb8615e)
+
 
 
 
