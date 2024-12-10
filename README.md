@@ -3,21 +3,18 @@ Based on Kotlin in Android Studio
 
 music app with Firebase
 
+
+
 Login info:      email: oscaraltanhuyag@gmail.com 
                  pw:    123456
 
 
 ![image](https://github.com/user-attachments/assets/3b89269e-897c-4e61-b8dd-677b25b01232)
 
-                 
 
-![Screenshot 2024-12-03 010139](https://github.com/user-attachments/assets/5dc35efc-d6ed-4e31-ac38-4c8e6eb8615e)
+![image](https://github.com/user-attachments/assets/463d4dfc-a01b-42a8-8168-df0e4ba7363c)
 
-
-
+![image](https://github.com/user-attachments/assets/87faee00-cab5-4ebf-9ae8-e1872b9f84a2)
 
 
-![image](https://github.com/user-attachments/assets/caf0736b-fcb8-4bff-98a4-85a9bbf51f59)
-
-
-![image](https://github.com/user-attachments/assets/bbc3f04b-ab83-4db8-8e3c-a3727c0b963d)
+![image](https://github.com/user-attachments/assets/3e084bd9-d461-4e1e-bf6d-e616cbc37acd)
